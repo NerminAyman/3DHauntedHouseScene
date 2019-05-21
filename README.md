@@ -1,0 +1,3 @@
+**Brief Discription:**
+
+It is a 3D haunted house scene. The house have two rooms and a monster/ghost that appears and disappears every certain interval of time. The rooms are animated along with their objects (trivial animation). The colors of the whole scene keep on changing randomly. For each room, the animation can be played or stopped by means of keyboard. There exists a button which changes the colors and another button to reset the colors to their initial values. There exists a camera that has a view from the top of the scene. There exists a camera that has two different side views (left and right). The user can alternate between the different camera views using the keyboard.
